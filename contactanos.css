@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: 'calibri';
+  }
+  
+  header {
+    background-color:white;
+    width: 100%;
+    clear: both;
+    content:''; 
+    display: table
+  }
+
+  .menu {
+    width: 900px;
+    margin: 0 auto;
+    }
+    .logo img {
+        width: 120px;
+        height: 50px;
+        float: left;
+        padding: 8px;
+      }
+  
+  .nav {
+    float: right;
+  }
+
+  
+ h1 {
+     color: rgb(255, 255, 255);
+     float: left;
+  font-size: 100px;
+ }
+ p {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
